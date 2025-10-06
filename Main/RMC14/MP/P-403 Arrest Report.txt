@@ -28,6 +28,6 @@
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
 [color=#134975][italic][signature][/italic][/color]
-[bold][color=#cb0000]Military Police[/color][/bold] | [italic]Arresting Officer[/italic]
+[bold][color=DarkRed]Arresting Officer[/color][/bold] | UNS [italic]Almayer[/italic]
 [color=#570202][italic]==================================================[/italic][/color]
-[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]
