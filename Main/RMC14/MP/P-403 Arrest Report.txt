@@ -25,7 +25,6 @@
 [bullet][bold][form][/bold]; for a duration of [form].
 [bullet][bold][form][/bold]; for a duration of [form].
 
-[bold]Sentencing Officer: [/bold][color=#134975][italic][form][/italic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
 [color=#134975][italic][signature][/italic][/color]
