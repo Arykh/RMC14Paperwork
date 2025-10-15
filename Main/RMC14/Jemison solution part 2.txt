@@ -4,52 +4,58 @@
 [color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                           [head=2]HOW TO MAKE PILLS[/head]
 
-[italic]The following steps will need a pressurized canister. Acquire one by grabbing an empty pressurized canister pouch from the medical equipment rack and ejecting the canister from the pouch.[/italic]
+[head=3][color=#ff0000]Janitor buckets must now be used for making pills, since pressurized canisters can no longer interact with bottles or beakers.[/color][/head] [bold]Janitor buckets can be found in maintenance halls, and can be fabricated in autolathes using metal.[/bold]
+
+[bold][color=#ff0000]The ChemMaster has been reworked, and smart chemical storage (smart fridge) has been added.[/color]
+[bullet] You can now put multiple pill bottles into the ChemMaster, and you must now select which pill bottles to fill by checking the box next to them.
+[bullet] When multiple pill bottles are checked, the name and bottle color settings will apply to all checked pill bottles.
+[bullet] The ChemMaster buffer will immediately empty itself if there is no beaker/bucket inserted into it (however, swapping a beaker/bucket out will not empty the buffer).
+[/bold]
+[head=3][color=#ff0000]At the start of the shift, make sure to fill up the ChemMaster with empty pill bottles to speed up pill production later.[/color][/head]
 
 [color=#d02424][head=3]Merabic Pill Bottles[/head][/color]
 [bold]Procedure to make 2:[/bold]
-[bold]1.[/bold] Dispense 80u water and 80u carbon into a pressurized canister, then fill the rest of the canister with bicaridine from the We-Ya-Chem Plus to make a canister of 240u meralyne and 240u bicaridine.
-[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
-[bold]3.[/bold] Insert an empty pill bottle into the ChemMaster.
-[bold]4.[/bold] Change bottle color to red, pill color to red, the name to "MB", set the count to 16, dose to 15.
-[bold]5.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
+[bold]1.[/bold] Dispense 80u water and 80u carbon into a janitor bucket, then fill the rest of the bucket with bicaridine from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the bucket inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Switch the buffer transfer setting from "To Beaker" to "To Disposal", and delete 20u bicaridine by clicking the "10" next to bicaridine twice (the buffer should now have 240u meralyne and 240u bicaridine).
+[bold]4.[/bold] Check the box next to the first 2 empty pill bottles.
+[bold]5.[/bold] Set the name to "MB", bottle color to red, pill color to red, count to 16 (done by default), then click the "Create Pills" button.
+[bold]6.[/bold] Click "Transfer" on both MB pill bottles to transfer them into the smart fridge.
 
 [color=#ecbc28][head=3]Keloderm Pill Bottles[/head][/color]
 [bold]Procedure to make 2:[/bold]
-[bold]1.[/bold] Dispense 80u phosphorus and 80u oxygen into a pressurized canister, then fill the rest of the canister with kelotane from the We-Ya-Chem Plus to make a canister of 240u dermaline and 240u kelotane.
-[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
-[bold]3.[/bold] Insert an empty pill bottle into the ChemMaster.
-[bold]4.[/bold] Change bottle color to yellow, pill color to yellow, the name to "KD", set the count to 16, dose to 15.
-[bold]5.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
+[bold]1.[/bold] Dispense 80u oxygen and 80u phosphorus into a janitor bucket, then fill the rest of the bucket with kelotane from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the bucket inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Switch the buffer transfer setting from "To Beaker" to "To Disposal", and delete 20u kelotane by clicking the "10" next to kelotane twice (the buffer should now have 240u dermaline and 240u kelotane).
+[bold]4.[/bold] Check the box next to the first 2 empty pill bottles.
+[bold]5.[/bold] Set the name to "KD", bottle color to yellow, pill color to yellow, count to 16 (done by default), then click the "Create Pills" button.
+[bold]6.[/bold] Click "Transfer" on both KD pill bottles to transfer them into the smart fridge.
 
 [color=#7c5f69][head=3]Ironutriment+ Pill Bottles[/head][/color]
 [bold]Preparation[/bold]
-[bold]1.[/bold] Unwrench and drag a food vendor from the medical conference room into chemistry (preferably, this step should have been completed at the start of the shift).
-[bold]2.[/bold] Dispense protein bars and prepared meals from the food vendor, insert a large beaker into the All-In-One Grinder, and start grinding food into large beakers of nutriment (preferably, a nurse or extra doctor should be assigned to just grinding nutriment for the first 15 minutes of the shift).
-[bold]3.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest of the large beaker with dexalin from the We-Ya-Chem Plus to make a large beaker of dexalin plus.
-
-[italic]Note: The large beakers of nutriment should have their transfer rates set to 100u to make pouring easier, and each one should be filled to the brim to 120u by using one nutriment beaker to completely fill another.[/italic]
+[bold]1.[/bold] Unwrench a food vendor from the medical conference room and drag it outside chemistry. Unwrench and drag an All-In-One Grinder next to the food vendor, insert a janitor bucket into the grinder, and set the auto-mode to grind.
+[bold]2.[/bold] Dispense protein bars and prepared meals from the food vendor, and grind it into nutriment.
+[bold]3.[/bold] When the janitor bucket is full, transfer the nutriment into a designated reagent tank.
+[bold]4.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest of the large beaker with dexalin from the We-Ya-Chem Plus to make a large beaker of dexalin plus.
 
 [bold]Procedure to make 2:[/bold]
-[bold]1.[/bold] Add 240u nutriment (2 full large beakers) and 240u iron into a pressurized canister.
-[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
-[bold]3.[/bold] Put the dexalin plus beaker into the ChemMaster and transfer 5u into the buffer.
-[bold]4.[/bold] Insert an empty pill bottle into the ChemMaster.
-[bold]5.[/bold] Change bottle color to light purple, pill color to purple, the name to "FN", set the count to 16, dose to 15.
-[bold]6.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
-[bold]7.[/bold] Delete the remainder reagents in the buffer.
+[bold]1.[/bold] Add 240u nutriment, 240u iron, and 5u dexalin plus into a janitor bucket (set the janitor bucket transfer amount to 240u to make drawing nutriment out of the nutriment tank easier).
+[bold]2.[/bold] Put the bucket inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Check the box next to the first 2 empty pill bottles.
+[bold]4.[/bold] Set the name to "FN+", bottle color to black, pill color to purple, count to 16 (done by default), then click the "Create Pills" button.
+[bold]5.[/bold] Click "Transfer" on both FN+ pill bottles to transfer them into the smart fridge.
 
 [color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                              [head=2]HOW TO MAKE GC[/head]
 
-[head=3]Preparation:[/head]
+[bold]Preparation:[/bold]
 [bold]1.[/bold] Eject a bicaridine, kelotane, dylovene, inaprovaline, and dexalin bottle from the We-Ya-Chem Plus.
 [bold]2.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest with dexalin and set the beaker's transfer rate to 20u. This will be the "dex+ beaker" used for ADDING 20u dexalin plus to the GC tanks.
 [bold]3.[/bold] Get another large beaker and set the transfer rate to 20u. This will be the "skim beaker" used for REMOVING 20u from the GC tanks.
 [bold]4.[/bold] Get a high-capacity beaker and set the transfer rate to 100u.
 [bold]5.[/bold] Get 3 empty reagent tanks and set them all to draw mode.
 
-[head=3]Procedure for 3 Tanks of GC:[/head]
+[bold]Procedure for 3 Tanks of GC:[/bold]
 [bold]1.[/bold] Add 300u bicaridine to the high-capacity beaker.
 [bold]2.[/bold] Using that beaker, pour 100u bicaridine into each tank.
 [bold]3.[/bold] Repeat steps 1-2. There should now be 200u bicaridine in each tank.
