@@ -1,7 +1,7 @@
  
-            [head=3]TITLE HERE - MAKE SURE TO CENTER[/head]
+            [head=3][form][/head]
 [color=steelblue][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
-News Agency: (NAMEHERE)
-Reporter: (NAMEHERE)
+News Agency: [form]
+Reporter: [signature]
 [color=steelblue][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
 Words and words and words

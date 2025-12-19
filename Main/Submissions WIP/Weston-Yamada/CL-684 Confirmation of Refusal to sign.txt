@@ -5,7 +5,7 @@
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]Name:[/bold] NAMEHERE
 [bold]Rank:[/bold] RANKHERE
-[bold]Role:[/bold] ROLEHERE
+[bold]Role:[/bold] [form]
 
 [bold]Original Form Designation: [/bold](FORM NUMBER)
 
