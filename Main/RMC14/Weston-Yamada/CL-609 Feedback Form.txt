@@ -16,7 +16,7 @@ I found the equipment produced by the Weston-Yamada Corporation to be:
 
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [head=3] Section 2: Liaison Performance [/head]
-I found the actions and services of the shipside Corporate Liaison, [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic] to be:
+I found the actions and services of the shipside Corporate Liaison, [bolditalic][color=#25b266][form][/color][/bolditalic] to be:
 [mono][bullet] Excellent    \[ [check] ] 
 [bullet] Satisfactory \[ [check] ] 
 [bullet] Poor         \[ [check] ] 

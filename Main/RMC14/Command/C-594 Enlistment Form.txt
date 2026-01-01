@@ -13,7 +13,7 @@
 [bold]Signed,[/bold]
 [signature]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[italic]The signatory above is hereby enlisted in the United Nations Marine Corp under the rank of private in the position of [bold]POSITIONHERE[/bold][/italic].
+[italic]The signatory above is hereby enlisted in the United Nations Marine Corp under the rank of private in the position of [bold][form][/bold][/italic].
 
 [bold]Authorised by,[/bold]
 [color=#1b67a5][italic][signature] of the UNS Almayer[/italic][/color]

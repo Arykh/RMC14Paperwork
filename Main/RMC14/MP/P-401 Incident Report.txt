@@ -9,7 +9,7 @@
 [bold]Role: [/bold][form]
 
 [bold]Classification of incident:[/bold] [form]
-[bold]Location: [/bold] [form] HERE
+[bold]Location: [/bold] [form]
 [bold]Incident Details: [/bold]
 [form]
 
