@@ -21,6 +21,48 @@
 [bullet][bold]Loaded by: [form][/bold]
 [bullet][bold]Time Fired: [form][/bold]
 
+[head=3]Fourth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Fifth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Sixth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Seventh Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Eighth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Ninth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
+[head=3]Tenth Warhead[/head]
+[bullet][bold]Type: [form][/bold]
+[bullet][bold]Time Loaded: [form][/bold]
+[bullet][bold]Loaded by: [form][/bold]
+[bullet][bold]Time Fired: [form][/bold]
+
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 

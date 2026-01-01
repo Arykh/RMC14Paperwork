@@ -6,16 +6,16 @@
 [bold]AUD-25 Designation:[/bold] [form]
 
 [bold]Preflight Check Items:[/bold]
-- < ✔ > External Inspection
-- < ✔ > Fuel Level Check
-- < ✔ > Hydraulic Systems Check
-- < ✔ > Electrical Systems Check
-- < ✔ > Navigation Systems Check
-- < ✔ > Communication Systems Check
-- < ✔ > Engine Start Procedure
-- < ✔ > Flight Controls Check
-- < ✔ > Weapon Systems Check
-- < ✔ > Safety Equipment Check
+- < [check] > External Inspection
+- < [check] > Fuel Level Check
+- < [check] > Hydraulic Systems Check
+- < [check] > Electrical Systems Check
+- < [check] > Navigation Systems Check
+- < [check] > Communication Systems Check
+- < [check] > Engine Start Procedure
+- < [check] > Flight Controls Check
+- < [check] > Weapon Systems Check
+- < [check] > Safety Equipment Check
 
 [bold]Notes:[/bold]
  [italic][form][/italic]
