@@ -5,7 +5,7 @@
 [color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 
 [head=2]BREAKFAST SERVICE[/head]
-[italic]Served 0000–1100. Coffee never stops.[/italic]
+[italic]Served 0000–1100.[/italic]
 
 • Classic Mess Breakfast
 Eggs (any style), hash browns, bacon, toast
@@ -41,7 +41,7 @@ Marinated chicken breast, toasted bun, house sauce
 Two pieces fried chicken, fries
 
 • Hot Dog
-A hotdog between a bun|
+A hotdog between a bun
 
 • Nachos
 Chips imported straight from Mexico
