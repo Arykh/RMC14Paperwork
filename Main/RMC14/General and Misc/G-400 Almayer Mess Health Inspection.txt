@@ -35,7 +35,7 @@
 
 [bold]Final Rating: [/bold][color=red][form][/color][bold]/17[/bold]
 
-     [bold]Ruling: [/bold][bold][color=#25b266]PASSED ( [check] ) [/color]/ [color=red]FAILED ( [check] ) [/color][/bold]
+     [bold]Ruling: [/bold][bold]PASSED ( [check] ) / FAILED ( [check] ) [/bold]
 
 [bold]Action Recommended: [/bold][color=red][italic][form][/italic][/color]
 
