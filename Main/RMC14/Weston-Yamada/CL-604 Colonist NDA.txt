@@ -1,6 +1,6 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]CL-563[/color] 
+[color=#383838]▄[/color][color=#ffffff00]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]CL-563[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Compensated Non-Disclosure Agreement[/italic][/head]
+[color=#ffffff00]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Compensated Non-Disclosure Agreement[/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 I, [bolditalic][color=#383838][form][/color][/bolditalic], promise to not disclose sensitive information or take legal action against the Weston-Yamada Corporation in regards to the events of [bold][color=#eb7a23]COLONYNAME[/color][/bold]. Furthermore, I will not communicate, publish, or distribute any confidential Weston-Yamada information, unless ordered to by Weston-Yamada Corporation personnel. In signing this non-disclosure agreement, I am entitled to up to [bold]three[/bold] of the items below: 

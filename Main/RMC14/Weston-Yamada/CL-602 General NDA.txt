@@ -1,6 +1,6 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]CL-602[/color] 
+[color=#383838]▄[/color][color=#ffffff00]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]CL-602[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3]Non-Disclosure Agreement[/head]
+[color=#ffffff00]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3]Non-Disclosure Agreement[/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 This [bold]Non-disclosure Agreement[/bold] is made effective as of March 30th 2124 by and between the Weston-Yamada Corporation and the signatory regarding the property and information related to all operational procedures.

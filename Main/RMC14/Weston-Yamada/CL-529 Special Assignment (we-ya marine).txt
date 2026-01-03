@@ -1,6 +1,6 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Form:[/bold] [color=#ff0000]CL-529[/color] 
+[color=#383838]▄[/color][color=#ffffff00]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Form:[/bold] [color=#ff0000]CL-529[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]The future is now[/italic][/head]
+[color=#ffffff00]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]The future is now[/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [italic]This document certifies an agreement between the signatory and Weston-Yamada Corporation. The signatory is required to keep a copy of this document on there person at all times, until the end of the current operation.[/italic]
