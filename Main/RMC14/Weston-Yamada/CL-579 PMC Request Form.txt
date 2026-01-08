@@ -1,6 +1,6 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form: [/bold][color=#ff0000]CL-579[/color]
+[color=#383838]▄[/color][color=#ffffff00]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form: [/bold][color=#ff0000]CL-579[/color]
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]PMC Detachment Request[/head]
+[color=#ffffff00]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]PMC Detachment Request[/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]Request Details[/head]
@@ -16,10 +16,10 @@
 [bold]Estimated Losses: [/bold] [form]
 
 [bolditalic]Urgency [/bolditalic]
-    [bullet]Minor: [color=red]( [form] )[/color]
-    [bullet]Medium: [color=red]( [form] )[/color]
-    [bullet]Major: [color=red]( [form] )[/color]
-    [bullet]PRIORITY; EMERGENCY: [color=red]( [form] )[/color]
+    [bullet]Minor: ( [check] )
+    [bullet]Medium: ( [check] )
+    [bullet]Major: ( [check] )
+    [bullet]PRIORITY; EMERGENCY: ( [check] )
 
 [bold]Additional Resources Requested: [/bold][form]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]

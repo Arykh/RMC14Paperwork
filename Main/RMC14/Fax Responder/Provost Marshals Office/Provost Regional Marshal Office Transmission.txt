@@ -1,17 +1,17 @@
-[color=#383838]█[/color][color=#ffffff]░░[/color][color=#8c0000]█ [color=#383838]█▄[/color] █ [/color][head=2]Provost Marshal Office[/head]      
+[color=#383838]█[/color][color=#ffffff00]░░[/color][color=#8c0000]█ [color=#383838]█▄[/color] █ [/color][head=2]Provost Marshal Office[/head]      
 [color=#8c0000]▀▄▄[color=#383838]▀[/color] █[/color] [color=#383838]▀█[/color] [color=#AAAAAA]The Auxiliary Provost Marshal Office[/color]   [color=#dfc189]✦  ❃  ✦[/color]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
              [color=goldenrod][head=2]Auxiliary Provost Transmission[/head][/color]
                                              [color=#383838]✦✧✦✧✦[/color]
-[bold]To:[/bold] [italic]RANKor[form] NAMEHERE[/italic]
+[bold]To:[/bold] [italic][form][/italic]
 [bold]From:[/bold] The Auxiliary Provost Marshal Office
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 Type, condemn, reprimand, etc. Watch your wording!
 
 
 Signed,
-[color=#dfc189][italic]First Lieutenant NAMEHERE [/italic]|Communications Officer[/color] 
+[color=#dfc189][italic][signature] [/italic]|Communications Officer[/color] 
 [bolditalic]The Auxiliary Provost Marshal Office[/bolditalic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [color=#AAAAAA][italic][bullet]This document in no way permits any person(s) to breach Marine Law in any way. 
